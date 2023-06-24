@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JonnyDev1220 Front end Web/Mobile Developer 
-- 👀 I’m interested in Web3, AI and Augmented Reality 
-- 🌱 I’m currently learning how to build AI based Web and Mobile apps with Open AI API
-- 💞️ I’m looking to work full-time 
-- 📫 How to reach me @jonathan-ebot on linkedin
+- 👋 Hi, I’m @JonnyDev1220 Web3 Front-end Developer
+- 👀 I’m interested in Web3 Dapps Development
+- 🌱 I’m currently building template for people to develop web3 app easily
+- 💞️ I’m looking for a full-time remote position
+- 📫 You can reach me @jonathan-ebot on linkedin
 
 
